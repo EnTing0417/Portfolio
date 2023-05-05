@@ -7,14 +7,14 @@ function Working_Experience(props) {
     <div>
       <h2>Working Experience</h2>
 
-	  <b><p>Software Engineer @ Qumon Intelligence LTP</p></b>
+	  <b><p>Software Engineer @ Qumon Intelligence PLT</p></b>
        <ul>
-		<li>Aug 2019 - Jan 2020</li>
+	   <li>May 2020 - Apr 2023</li>
 	 </ul>
 
       <b><p>Junior Implementation Engineer - Internship @ Ematic Solutions Sdn Bhd</p></b>
        <ul>
-		<li>May 2020 - Apr 2023</li>
+	   <li>Aug 2019 - Jan 2020</li>
 	 </ul>
 
 

@@ -27,7 +27,6 @@ function Skills(props) {
 		<li>MySQL</li>
 		<li>Adobe Premiere Pro</li>
 		<li>Adobe Photoshop</li>
-		<li>Chatbot Development</li>
 		<li>Robotic Programming</li>
 	 </ul>
 
@@ -35,7 +34,6 @@ function Skills(props) {
        <ul>
        	<li>Web Development</li>
         <li>Machine Learning</li>
-          <li>Data Mining</li>
 		<li>Social Media Marketing</li>
 	 </ul>
 
