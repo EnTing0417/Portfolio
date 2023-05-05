@@ -9,6 +9,11 @@ function Skills(props) {
 
      <b><p>Tools and Technologies</p></b>
        <ul>
+		<li>Golang</li>
+		<li>REST API</li>
+		<li>MongoDB</li>
+		<li>Apache Kafka</li>
+		<li>Redis</li>
        	<li>Java</li>
         <li>Bootstrap</li>
         <li>Python</li>
