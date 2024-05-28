@@ -6,6 +6,15 @@ function Working_Experience(props) {
   return (
     <div>
       <h2>Working Experience</h2>
+	  <b><p>Teacher @ The Praxis House</p></b>
+       <ul>
+	   <li>Jan 2024 - Apr 2024</li>
+	 </ul>
+
+	  <b><p>Software Engineer @ Cognixus Technologies Sdn Bhd</p></b>
+       <ul>
+	   <li>Jul 2023 - Sep 2023</li>
+	 </ul>
 
 	  <b><p>Software Engineer @ Qumon Intelligence PLT</p></b>
        <ul>
