@@ -13,19 +13,6 @@
   }
 }
 
-a:link, a:visited {
-  background-color: grey;
-  color: white;
-  padding: 14px 25px;
-  text-align: left;
-  text-decoration: none;
-  display: inline-block;
-}
-
-a:hover, a:active {
-  background-color: pink;
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -41,6 +28,14 @@ a:hover, a:active {
   bottom: 0;
   width: 100%;
   background-color: white ;
-  color: #a9a9a9 ;
+  color: white ;
   text-align: center;
+}
+
+/* SideNavigation.css */
+.side-navigation {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Vertically center the menu */
+  /* Add any other styling as needed */
 }
