@@ -15,7 +15,7 @@ function App() {
     <BrowserRouter>
     <div className="App"> 
        <center><h1>WONG EN TING</h1></center>
-       <center><p>BACHELOR OF COMPUTER SCIENCE MAJOR IN ARTIFICIAL INTELLIGENCE</p></center>
+       <center><p className="styled-paragraph">BACHELOR OF COMPUTER SCIENCE MAJOR IN ARTIFICIAL INTELLIGENCE</p></center>
        <div class="header"></div>
        <img className="img-responsive" src={logo} alt="logo" style={mystyle}/>
       <NavigationMenu />

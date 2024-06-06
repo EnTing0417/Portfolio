@@ -39,3 +39,16 @@
   justify-content: center; /* Vertically center the menu */
   /* Add any other styling as needed */
 }
+
+.styled-paragraph {
+  font-family: Arial, sans-serif; 
+  font-size: 13px;              
+  color: #333;              
+  line-height: 1.6;              
+  margin: 20px 0;              
+  padding: 10px 15px;            
+  background-color: #f9f9f9;       
+  border: 1px solid #ddd;        
+  border-radius: 5px;            
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);  
+}

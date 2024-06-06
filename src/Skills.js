@@ -1,12 +1,13 @@
 // src/Skills.js
  
 import React from "react"
+import BoxedText from './BoxedText';
  
 function Skills(props) {
   return (
     <div>
       <h2>Skills</h2>
-
+	  <BoxedText> 
      <b><p>Tools and Technologies</p></b>
        <ul>
 		<li>Golang</li>
@@ -36,7 +37,7 @@ function Skills(props) {
         <li>Machine Learning</li>
 		<li>Social Media Marketing</li>
 	 </ul>
-
+	 </BoxedText>
     </div>
   )
 }

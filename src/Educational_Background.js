@@ -2,12 +2,13 @@
  
 import React from "react"
 import './Educational_Background.css';
+import BoxedText from './BoxedText';
  
 function Educational_Background(props) {
   return (
     <div>
       <h2>Education</h2>
-
+      <BoxedText> 
       <b><p>University Kebangsaan Malaysia</p></b>
       <ul>
 		<li>Bachelor's degree , Computer Science</li>
@@ -24,6 +25,7 @@ function Educational_Background(props) {
 <li>Performer of Orchestra Traditional</li>
 <li>School Representative for chinese caligraphy competition</li>
 </ul>
+</BoxedText>
     </div>
   )
 }

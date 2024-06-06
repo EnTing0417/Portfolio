@@ -1,11 +1,13 @@
 // src/Working_Experience.js
  
 import React from "react"
+import BoxedText from './BoxedText';
  
 function Working_Experience(props) {
   return (
     <div>
       <h2>Working Experience</h2>
+	  <BoxedText> 
 	  <b><p>Teacher @ The Praxis House</p></b>
        <ul>
 	   <li>Jan 2024 - Apr 2024</li>
@@ -48,7 +50,7 @@ function Working_Experience(props) {
        <ul>
 		<li>Dec 2015 - Apr 2016</li>
 	 </ul>
-
+	 </BoxedText>
     </div>
   )
 }

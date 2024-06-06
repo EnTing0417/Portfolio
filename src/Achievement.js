@@ -1,12 +1,13 @@
 // src/achievement.js
  
 import React from "react"
+import BoxedText from './BoxedText';
  
 function Achievement(props) {
   return (
     <div>
       <h2>Achievement & Involvement</h2>
-
+      <BoxedText> 
        <b><p>Microsoft Student Partners (MSP)</p></b>
        <ul>
        	<li>Microsoft Malaysia</li>
@@ -17,9 +18,7 @@ function Achievement(props) {
        <ul>
        	<li>4th Runner-up</li>
 	 </ul>
-
-
-
+	 </BoxedText>
     </div>
   )
 }
