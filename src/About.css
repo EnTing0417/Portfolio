@@ -2,5 +2,12 @@
   width: auto;
   height: auto;
   display: inline-block;	
+}
 
+.styled-paragraph {
+  line-height: 1.6;     
+  margin: 20px 0;       
+  padding: 10px;        
+  background-color: grey;  
+  border-radius: 5px;    
 }

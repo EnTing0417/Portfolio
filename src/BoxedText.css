@@ -1,0 +1,8 @@
+.box {
+    border: 2px solid white;  /* Add a border to the box */
+    padding: 20px;           /* Add padding inside the box */
+    border-radius: 5px;      /* Optional: add rounded corners */
+    background-color: white;  /* Optional: add a background color */
+    margin: 20px 0;          /* Add margin to the top and bottom of the box */
+  }
+  
